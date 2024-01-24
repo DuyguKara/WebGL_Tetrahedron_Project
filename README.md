@@ -22,6 +22,7 @@ JavaScript File:
 
 <script type="text/javascript" src="hw3.js"></script>: Link to the JavaScript file containing the WebGL application code.
 
+
 - JavaScript Section (hw3.js):
   
 Global Variables:
