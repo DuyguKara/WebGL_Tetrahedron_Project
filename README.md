@@ -48,3 +48,6 @@ Resets all transformation parameters to their initial values.
 rendering Function:
 
 It renders the scene by calculating model-view and projection matrices based on user input. It uses requestAnimationFrame for continuous rendering.
+
+## Pdf File
+You can see the code output in the pdf file.
