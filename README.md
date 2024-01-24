@@ -4,7 +4,7 @@
 ## Overview
 This HTML and JavaScript code creates a simple WebGL application to render a tetrahedron and allow users to interactively adjust its position, rotation angles, and scale.
 
--HTML Section:
+- HTML Section:
 Canvas Element:
 
 <canvas id="gl-canvas" width="512" height="512">: Defines the canvas element for rendering WebGL graphics.
@@ -17,7 +17,7 @@ Importing the required JavaScript files (webgl-utils.js, initShaders.js and MV.j
 JavaScript File:
 
 <script type="text/javascript" src="hw3.js"></script>: Link to the JavaScript file containing the WebGL application code.
--JavaScript Section (hw3.js):
+- JavaScript Section (hw3.js):
 Global Variables:
 
 Various variables to store transformation parameters, camera parameters, matrices, and arrays for points and colors.
